@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-	cout<<"Config this file"<<endl;
-	cout<<"Version 3"<<endl;
+	cout<<"Config"<<endl;
+	cout<<"Version1"<<endl;
 
 	return 0;
 }
