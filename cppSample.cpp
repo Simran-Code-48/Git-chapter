@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 	cout<<"Config"<<endl;
-	cout<<"Version1"<<endl;
+	cout<<"Version2"<<endl;
 
 	return 0;
 }
